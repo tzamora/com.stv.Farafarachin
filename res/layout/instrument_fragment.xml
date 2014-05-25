@@ -17,11 +17,11 @@
 	        android:layout_height="wrap_content"
 	        android:textSize="20dp"
 	        android:text="AAAAAAAAA" />
-	    <Button
-	        android:id="@+id/content"
+	    <ImageView
+	        android:id="@+id/instrumentImage"
 	        android:layout_width="190dp"
 	        android:layout_height="120dp"
-	        android:background="@android:color/black">
-		</Button>
+	        android:src="@drawable/platillos">
+		</ImageView>
 	</com.farafarachin.carousel.CarouselLinearLayout>
 </LinearLayout>

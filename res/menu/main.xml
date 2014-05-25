@@ -1,9 +1,20 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android" >
 
-    <item
+    <!-- <item
         android:id="@+id/action_settings"
         android:orderInCategory="100"
         android:showAsAction="never"
-        android:title="@string/action_settings"/>
+        android:title="@string/action_settings"/> -->
+        
+        <item android:id="@+id/gotoCameraButton"
+          android:icon="@drawable/ic_action_camera"
+          android:title="Camera"
+          android:showAsAction="always"/>
+        
+        <item android:id="@+id/gotoRatings"
+          android:icon="@drawable/ic_action_important"
+          android:title="Ratings"
+          android:showAsAction="always"
+          />
 
 </menu>

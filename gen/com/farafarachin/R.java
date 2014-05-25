@@ -24,37 +24,73 @@ public final class R {
         public static final int avatar_background=0x7f020000;
         public static final int avatar_man=0x7f020001;
         public static final int bombo=0x7f020002;
-        public static final int fondo_instrumento=0x7f020003;
-        public static final int ic_launcher=0x7f020004;
-        public static final int platillos=0x7f020005;
-        public static final int redoblante=0x7f020006;
-        public static final int selection_placeholder=0x7f020007;
+        public static final int camera_icon=0x7f020003;
+        public static final int disable_sound_icon=0x7f020004;
+        public static final int enable_sound_icon=0x7f020005;
+        public static final int fondo_instrumento=0x7f020006;
+        public static final int ic_action_camera=0x7f020007;
+        public static final int ic_action_important=0x7f020008;
+        public static final int ic_action_screen_rotation=0x7f020009;
+        public static final int ic_action_volume_muted=0x7f02000a;
+        public static final int ic_action_volume_on=0x7f02000b;
+        public static final int ic_launcher=0x7f02000c;
+        public static final int logo_app_farachin=0x7f02000d;
+        public static final int pizzahutlogo=0x7f02000e;
+        public static final int platillos=0x7f02000f;
+        public static final int ratings_2_icon=0x7f020010;
+        public static final int ratings_icon=0x7f020011;
+        public static final int redoblante=0x7f020012;
+        public static final int repretel=0x7f020013;
+        public static final int selection_placeholder=0x7f020014;
+        public static final int vibrate_icon=0x7f020015;
     }
     public static final class id {
-        public static final int action_settings=0x7f09000b;
-        public static final int carouselViewPager=0x7f090004;
-        public static final int content=0x7f09000a;
-        public static final int goToCamera=0x7f090003;
-        public static final int imageAvatarView=0x7f090006;
+        public static final int action_settings=0x7f090010;
+        public static final int adPlaceholder=0x7f090003;
+        public static final int appLogo=0x7f090002;
+        public static final int carouselViewPager=0x7f090006;
+        public static final int gotoCameraButton=0x7f09000e;
+        public static final int gotoRatings=0x7f09000f;
+        public static final int headerPlaceholder=0x7f090001;
+        public static final int imageAvatarView=0x7f090009;
         public static final int imageBackgroundView=0x7f090000;
-        public static final int instrumentPlaceholder=0x7f090001;
-        public static final int root=0x7f090008;
-        public static final int saveButton=0x7f090007;
-        public static final int takedPhotoImageView=0x7f090005;
-        public static final int text=0x7f090009;
-        public static final int textView1=0x7f090002;
+        public static final int instrumentImage=0x7f09000d;
+        public static final int instrumentPlaceholder=0x7f090005;
+        public static final int repretelIcon=0x7f090004;
+        public static final int root=0x7f09000b;
+        public static final int saveButton=0x7f09000a;
+        public static final int soundModeViewPager=0x7f090007;
+        public static final int takedPhotoImageView=0x7f090008;
+        public static final int text=0x7f09000c;
     }
     public static final class layout {
         public static final int activity_main=0x7f030000;
         public static final int activity_take_photo=0x7f030001;
-        public static final int mf=0x7f030002;
+        public static final int instrument_fragment=0x7f030002;
+        public static final int sound_mode_fragment=0x7f030003;
     }
     public static final class menu {
         public static final int main=0x7f080000;
         public static final int take_photo=0x7f080001;
     }
     public static final class raw {
-        public static final int redoblante=0x7f040000;
+        public static final int bombo_hit=0x7f040000;
+        public static final int bombo_melodia=0x7f040001;
+        public static final int farafarachin=0x7f040002;
+        public static final int guiro_hit=0x7f040003;
+        public static final int guiro_melodia=0x7f040004;
+        public static final int platillos_hit=0x7f040005;
+        public static final int platillos_melodia=0x7f040006;
+        public static final int redoblante_hit=0x7f040007;
+        public static final int redoblante_melodia=0x7f040008;
+        public static final int saxofon_hit=0x7f040009;
+        public static final int saxofon_melodia=0x7f04000a;
+        public static final int trombon_hit=0x7f04000b;
+        public static final int trombon_melodia=0x7f04000c;
+        public static final int trompeta_hit=0x7f04000d;
+        public static final int trompeta_melodia=0x7f04000e;
+        public static final int tuba_hit=0x7f04000f;
+        public static final int tuba_melodia=0x7f040010;
     }
     public static final class string {
         public static final int action_settings=0x7f060001;
